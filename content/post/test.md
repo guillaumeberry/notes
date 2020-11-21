@@ -2,7 +2,7 @@
 authors = []
 date = 2020-11-19T23:00:00Z
 excerpt = "Short description"
-hero = "/images/mother.png"
+hero = "/notes/images/mother.png"
 timeToRead = 120
 title = "Test"
 
