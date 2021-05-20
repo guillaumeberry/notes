@@ -1,9 +1,0 @@
-+++
-authors = []
-date = 2020-11-19T23:00:00Z
-excerpt = "Short description"
-hero = "/notes/images/mother.png"
-timeToRead = 120
-title = "Test"
-
-+++
