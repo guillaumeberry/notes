@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: Gimbalst, the simplest way to start publishing.
-  maxWidthPX: "652"
+  heading: Notes by Guillaume Berry
+  maxWidthPX: "512"
 seo:
   image: "/images/hero-2.jpg"
 
